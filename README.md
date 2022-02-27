@@ -6,7 +6,7 @@ Gas Network is defined as ODEs and solved using ode solver
 
 We can define any pipeline network that contains pipes, nodes, supplies, and deliveries.
 
-Also, it is possible to define multiple events such as increase or decrease the pressure in each supply or mass flow rate in each delivery 
+Also, it is possible to define multiple events such as increase or decrease of the pressure in each supply or mass flow rate in each delivery 
 
 The definition of files is as follows:
 
