@@ -2,7 +2,7 @@
 
 In this repository all the files are writen in MATLAB
 
-Gas Network is defined as ODEs and solved using ode solver
+Gas Network is defined as Ordinary Differential Equations (ODEs) and solved using ode solver
 
 We can define any pipeline network that contains pipes, nodes, supplies, and deliveries.
 
