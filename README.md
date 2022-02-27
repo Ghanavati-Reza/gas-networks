@@ -1,16 +1,14 @@
 # Dynamic Gas Network Model 
 
-## Introduction 
-
 In this repository all the files are writen in MATLAB
 
 Gas Network is defined as ODEs and solved using ode solver
 
 We can define any pipeline network that contains pipes, nodes, supplies, and deliveries.
 
-Also, it is possible to define events such as increase or decrease the pressure in each supply or mass flow in each delivery 
+Also, it is possible to define multiple events such as increase or decrease the pressure in each supply or mass flow in each delivery 
 
-The definition of files are as follows:
+The definition of files is as follows:
 
 - examle.m
 used to define the structure of the gas network and the characteristics of the fluid
